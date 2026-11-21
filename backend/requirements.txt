@@ -1,0 +1,26 @@
+
+fastapi
+uvicorn[standard]
+python-multipart
+
+# PDF processing
+pypdf
+langchain-community
+langchain-text-splitters
+
+# Embeddings and vector database
+fastembed
+faiss-cpu
+
+# Hybrid retrieval
+rank-bm25
+
+# Knowledge graph
+networkx
+
+# OpenAI
+openai
+langchain-openai
+
+# Utilities
+python-dotenv
